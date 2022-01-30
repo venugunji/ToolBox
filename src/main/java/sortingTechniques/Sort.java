@@ -3,7 +3,7 @@ package sortingTechniques;
 import java.util.Arrays;
 
 /**
- * Bubble Sort
+ * Various Sorting Techniques
  */
 public class Sort {
 
